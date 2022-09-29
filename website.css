@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Orelega+One&family=Ms+Madi&family=Bebas+Neue&family=Bungee+Shade&family=Nabla&family=Quicksand&family=Roboto+Condensed&family=Roboto+Serif:opsz,wght@8..144,700&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Stardos+Stencil&family=Orelega+One&family=Ms+Madi&family=Bebas+Neue&family=Bungee+Shade&family=Nabla&family=Quicksand&family=Roboto+Condensed&family=Roboto+Serif:opsz,wght@8..144,700&family=Roboto+Slab&display=swap');
 
 * {
     margin: 0;
@@ -264,7 +264,8 @@
 
 h1 {
     font-family: 'Orelega One', cursive;
-    font-size: 50px;
+    font-family: 'Stardos Stencil', cursive;
+    font-size: 3em;
 }
 
 h2 {
